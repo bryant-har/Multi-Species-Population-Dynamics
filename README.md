@@ -1,4 +1,7 @@
+
 # Modeling Multi-Species Population Dynamics with Runge-Kutta
+![image](files/Users/jzhang/Desktop/Isolated.png)
+
 
 This is a project created by:
 - Justin Guo (jjg283@cornell.edu)
