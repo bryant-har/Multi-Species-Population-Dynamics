@@ -1,6 +1,6 @@
 
 # Modeling Multi-Species Population Dynamics with Runge-Kutta
-![image](files/Users/jzhang/Desktop/Isolated.png)
+![image](QyjMPp.png)
 
 
 This is a project created by:
