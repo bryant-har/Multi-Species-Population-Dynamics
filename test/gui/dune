@@ -1,0 +1,4 @@
+(executable
+ (public_name gui_test)
+ (name gui_test)
+ (libraries Simulator))

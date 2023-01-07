@@ -1,0 +1,11 @@
+(library
+ (name simulator)
+ (public_name Simulator)
+ (libraries lablgtk3 ANSITerminal)
+ (instrumentation
+  (backend bisect_ppx)))
+
+(menhir
+ (modules parser))
+
+(ocamllex lexer)
