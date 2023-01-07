@@ -17,7 +17,7 @@ Install and example use instructions are included in INSTALL.md.
 - [Library (Parse)](#parser) 
 
 ## Introduction
-We aim to generate approximate solutions to systems of differential equations for use in population modelling. Potential applications include use in: 
+We aim to generate approximate solutions to systems of differential equations for use in population modelling. Examples applications include: 
 - Herbivore-Predator Model (with Refuge for Predators),
 - SIR Model for infectious disease (Susceptible, Infectious, Recovered)
 - Ecological model with four species - Herbivores with Refuges, Predator, Competition, Mutualism, Commensalism, and Amensalism.
